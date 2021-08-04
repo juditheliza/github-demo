@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 
 
 ##How to Contribute
-
+Please fork this repositiry,,,
 
 ###Copyright
 2021 Git. Training
